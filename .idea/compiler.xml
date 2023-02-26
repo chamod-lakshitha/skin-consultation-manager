@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="w1809766 additional" />
+        <module name="w1809766 - with no LM" />
+        <module name="final object - Copy" />
+        <module name="w1809766 outside scope" />
+        <module name="oop_cw - one by one" />
+        <module name="w1809766 implementing view consultations" />
+        <module name="final object" />
+        <module name="w1809766 - Copy" />
+        <module name="final" />
+        <module name="oop_cw" />
+        <module name="w1809766" />
+        <module name="oop_cw - one by one - Copy" />
+        <module name="w1809766_coursework" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
